@@ -1,5 +1,5 @@
 import { Options, Vue } from "vue-class-component";
-import HelloWorld from "@/main/webapp/app/components/HelloWorld.vue"; // @ is an alias to /src
+import HelloWorld from "@/main/webapp/app/components/hello-world.vue"; // @ is an alias to /src
 
 @Options({
   components: {
