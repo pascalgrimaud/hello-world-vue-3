@@ -1,5 +1,5 @@
 import { Options, Vue } from "vue-class-component";
-import App from "@/main/webapp/app/App.vue";
+import App from "@/main/webapp/app/app.vue";
 
 @Options({
   components: {
